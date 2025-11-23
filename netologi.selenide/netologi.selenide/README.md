@@ -1,0 +1,1 @@
+![Build Status](https://github.com/Kyklina-Irina/netologi.selenide/actions/workflows/gradle.yml/badge.svg)
